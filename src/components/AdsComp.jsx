@@ -5,14 +5,14 @@ import { AdsMovie } from '../moviesData';
 
 const AdsComp = () => {
   return (
-    <div>
+    <div style={{ margin:"25px"}}>
     <Carousel>
     {AdsMovie.map((el) => (
         <Carousel.Item key={el.id}>
           <img 
           src={el.movieImage} 
           alt="photoz" 
-          style={{ width: "auto", height:"800px" }}
+          style={{ width: "auto", height:"400px" }}
           />
         <Carousel.Caption>
           <h3>{el.movieName}</h3>
