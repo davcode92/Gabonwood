@@ -5,7 +5,7 @@ import { AdsMovie } from '../moviesData';
 
 const AdsComp = () => {
   return (
-    <div style={{ margin:"25px"}}>
+    <div style={{ margin:"25px" }}>
     <Carousel>
     {AdsMovie.map((el) => (
         <Carousel.Item key={el.id}>
