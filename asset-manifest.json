@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gabonwood/static/css/main.42daf84c.css",
+    "main.js": "/Gabonwood/static/js/main.cd74673a.js",
+    "static/js/453.be0d1132.chunk.js": "/Gabonwood/static/js/453.be0d1132.chunk.js",
+    "index.html": "/Gabonwood/index.html",
+    "main.42daf84c.css.map": "/Gabonwood/static/css/main.42daf84c.css.map",
+    "main.cd74673a.js.map": "/Gabonwood/static/js/main.cd74673a.js.map",
+    "453.be0d1132.chunk.js.map": "/Gabonwood/static/js/453.be0d1132.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42daf84c.css",
+    "static/js/main.cd74673a.js"
+  ]
+}
